@@ -1,4 +1,4 @@
-name: Setup Java and Gradle
+name: Setup Gradle With Java
 description: Sets up Java and Gradle with their standard GHAs, provides the option to build
 
 inputs:
